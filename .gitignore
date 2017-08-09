@@ -41,7 +41,7 @@ Module.symvers
 #
 # script files
 #
-*.sh
+#*.sh
 
 #
 # Top-level generic files
